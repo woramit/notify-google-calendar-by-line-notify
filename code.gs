@@ -37,7 +37,7 @@ function tomorrowEventMessage() {
   
   //Logger.log(tomorrowEventList);
   
-  var message = "ตารางงาน COVID-19 พรุ่งนี้";
+  var message = "ตารางงาน พรุ่งนี้";
   
   for (var i = 0; i < tomorrowEventList.length; i++) {
   
